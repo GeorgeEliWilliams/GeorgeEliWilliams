@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is George Williams
 =======================================================================================================================================
 
-Data Scientist and Analyst
+Data Scientist and Machine Learning Engineer
 --------------------------
 
-I am a data scientist with a background in engineering. I build projects projects here that help develop my analytical and data science skills.
+I am a data scientist with a background in engineering. I build projects projects here that help develop my machine learning and data science skills.
 
 *   🌍  I'm based in Accra,Ghana
 *   ✉️  You can contact me at [williamsgeorge950@gmail.com](mailto:williamsgeorge950@gmail.com)
-*   🤝  I'm open to collaborating on data science machine learning projects
+*   🤝  I'm open to collaborating on data science and machine learning projects
 *   ⚡  I absolutely love classic movies like the godfather and American psycho### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
