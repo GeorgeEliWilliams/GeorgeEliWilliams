@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Scientist and Machine Learning Engineer
 --------------------------
-
+Hello! I'm George Williams, a versatile professional with a robust background in Biomedical Engineering, complemented by my expertise in Data Science, Data Analytics, Machine Learning, Artificial Intelligence, and Cloud Engineering.
 I am a data scientist with a background in engineering. I build projects projects here that help develop my machine learning and data science skills.
 
 *   🌍  I'm based in Accra,Ghana
