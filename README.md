@@ -19,20 +19,8 @@ I'm always excited to connect with like-minded professionals, discuss innovative
 * [LinkedIn](https://www.linkedin.com/in/george-williams-2709401b4/)
 * williamsgeorge950@gmail.com.
 
-*   🌍  I'm based in Accra,Ghana
-*   ✉️  You can contact me at [williamsgeorge950@gmail.com](mailto:williamsgeorge950@gmail.com)
-*   🤝  I'm open to collaborating on data science and machine learning projects
-*   ⚡  I absolutely love classic movies like the godfather and American psycho### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+  
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
                           
                       <a href="https://www.github.com/GeorgeEliWilliams" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
